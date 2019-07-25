@@ -1,0 +1,19 @@
+{
+  "name": "sary",
+  "version": "1.0.0",
+  "description": "Yelp search along Google Maps route",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dianezhou96/sary.git"
+  },
+  "author": "Alex Huang, Diane Zhou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dianezhou96/sary/issues"
+  },
+  "homepage": "https://github.com/dianezhou96/sary#readme"
+}
