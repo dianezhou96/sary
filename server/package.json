@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/dianezhou96/sary/issues"
   },
-  "homepage": "https://github.com/dianezhou96/sary#readme"
+  "homepage": "https://github.com/dianezhou96/sary#readme",
+  "dependencies": {
+    "@google/maps": "^0.5.5",
+    "express": "^4.17.1"
+  }
 }
